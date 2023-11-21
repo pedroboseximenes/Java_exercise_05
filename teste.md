@@ -16,19 +16,19 @@
  	* Extrair esse arquivo na pasta de DEV-ENV do sistema (C:\);
  	* Entrar na pasta criada e criar um atalho para o executável do eclipse;
 2. Configurando o plugin Liberty:
-* Abra o eclipse;
-* Clique em “Servers” na parte inferior do eclipse;
-* Clique no botão create a new server;
-  Imagem
-* Escolha IBM e em seguida Liberty;
-* Clicar em Adicionar um server runtime environment;
-* Nessa tela pode definir qual nome e versão do Liberty e  do JEE  que irá utilizar, os quais se encontram com suas versões no dev-env;
-* Clique opções avançadas para definir a aplicação;
-* Clique em new para configurar o wlp do seu projeto, um padrão do BNDES;
-* Clique em Use an external user directory;
-* Nessa tela, procure pela pasta wlp-usr e clique em finish;
-* Veja se foi adicionado mais um diretório em  User directories, em seguida clique em OK e clique em Next na tela inicial;
-* Se ficar essa tela, clica em finish e aguarde a criação do liberty no eclipse;
+	* Abra o eclipse;
+	* Clique em “Servers” na parte inferior do eclipse;
+	* Clique no botão create a new server;
+	 ![Imagem]("Imagem1.png")
+	* Escolha IBM e em seguida Liberty;
+	* Clicar em Adicionar um server runtime environment;
+	* Nessa tela pode definir qual nome e versão do Liberty e  do JEE  que irá utilizar, os quais se encontram com suas versões no dev-env;
+	* Clique opções avançadas para definir a aplicação;
+	* Clique em new para configurar o wlp do seu projeto, um padrão do BNDES;
+	* Clique em Use an external user directory;
+	* Nessa tela, procure pela pasta wlp-usr e clique em finish;
+	* Veja se foi adicionado mais um diretório em  User directories, em seguida clique em OK e clique em Next na tela inicial;
+	* Se ficar essa tela, clica em finish e aguarde a criação do liberty no eclipse;
 
 4. Step 3
     * Item 3a
