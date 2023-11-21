@@ -4,9 +4,9 @@
 *Necessário instalar o Dev-Env: 
 \\bndes.net\bndes\Grupos\AmbienteDesenvolvedor\bnd-levain-pkg\instaladores\instalaDevEnv.cmd*
 
-*Instalando versão do eclipse mais recente
-**Abra o diretório (J:).
-**Abra a pasta GAUT1.
+* Instalando versão do eclipse mais recente
+** Abra o diretório (J:).
+** Abra a pasta GAUT1.
 
 >Atenção: Diretório do workspace do eclipse pode estar configurado em um local inexistente na sua máquina.
 
