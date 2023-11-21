@@ -5,23 +5,8 @@
 \\bndes.net\bndes\Grupos\AmbienteDesenvolvedor\bnd-levain-pkg\instaladores\instalaDevEnv.cmd*
 
 *Instalando versão do eclipse mais recente
-	     	**Abra o diretório (J:\).
-	    
-	     	*Abra a pasta GAUT1.
-	    	
-		*Abra a pasta Projetos.
-	    
-	    	Abra a pasta FG2.
-	    
-	    	Abra a pasta FG2-Convergencia.
-	    
-	    	Abra a pasta IDE’S.
-	    
-	  	Copiar o arquivo eclipse-jee-2023-03 com plugin liberty.
-	    
-	   	Extrair esse arquivo na pasta de DEV-ENV do sistema (C:\).
-	    
-		Entrar na pasta criada e criar um atalho para o executável do eclipse.
+**Abra o diretório (J:).
+**Abra a pasta GAUT1.
 
 >Atenção: Diretório do workspace do eclipse pode estar configurado em um local inexistente na sua máquina.
 
