@@ -19,7 +19,9 @@
 	* Abra o eclipse;
 	* Clique em “Servers” na parte inferior do eclipse;
 	* Clique no botão create a new server;
+
 	 ![Imagem]("Imagem1.png")
+
 	* Escolha IBM e em seguida Liberty;
 	* Clicar em Adicionar um server runtime environment;
 	* Nessa tela pode definir qual nome e versão do Liberty e  do JEE  que irá utilizar, os quais se encontram com suas versões no dev-env;
