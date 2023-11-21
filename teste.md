@@ -6,7 +6,15 @@
 
  
 1. Instalando versão do eclipse mais recente
-	* Item 1
+	* Abra o diretório J:\;
+ 	* Abra a pasta GAUT1;
+ 	* Abra a pasta Projetos;
+ 	* Abra a pasta FG2;
+ 	* Abra a pasta FG2-Convergencia;
+ 	* Abra a pasta IDE’S;
+ 	* Copiar o arquivo eclipse-jee-2023-03 com plugin liberty;
+ 	* Extrair esse arquivo na pasta de DEV-ENV do sistema (C:\);
+ 	* Entrar na pasta criada e criar um atalho para o executável do eclipse;
 2. Step 2
 3. Step 3
     * Item 3a
