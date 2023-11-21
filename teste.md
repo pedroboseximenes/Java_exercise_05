@@ -20,7 +20,7 @@
 	* Clique em “Servers” na parte inferior do eclipse;
 	* Clique no botão create a new server;
 
-	 ![Imagem]("Imagem1.png")
+	 ![[Imagem]("Imagem1.png")](https://github.com/pedroboseximenes/Java_exercise_05/blob/347aee2fa2c2ac6fe151ee71a3b74c61bb103a8c/Imagem1.png)
 
 	* Escolha IBM e em seguida Liberty;
 	* Clicar em Adicionar um server runtime environment;
