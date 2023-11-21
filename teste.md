@@ -1,13 +1,11 @@
 
-:## Configurando maquina desenvolvedor:
+## Configurando maquina desenvolvedor
 
 *Necessário instalar o Dev-Env: 
 \\bndes.net\bndes\Grupos\AmbienteDesenvolvedor\bnd-levain-pkg\instaladores\instalaDevEnv.cmd*
 
 1 - Instalando versão do eclipse mais recente:
-
     1.1	- Abra o diretório (J:\).
-    
     1.2	- Abra a pasta GAUT1.
     
     1.3	- Abra a pasta Projetos.
